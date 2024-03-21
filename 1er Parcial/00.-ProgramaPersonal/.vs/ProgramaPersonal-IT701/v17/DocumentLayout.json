@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|c:\\users\\monnsmonsh\\documents\\githubproyects\\appsprogramming_class-7to_it-701\\1er parcial\\00.-programapersonal\\programapersonal-it701\\programapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|solutionrelative:programapersonal-it701\\programapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\programapersonal-it701\\programapersonaconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|solutionrelative:programapersonal-it701\\programapersonaconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\programapersonal-it701\\programapersonaherencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|solutionrelative:programapersonal-it701\\programapersonaherencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\programapersonal-it701\\programapersonateclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|solutionrelative:programapersonal-it701\\programapersonateclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\programapersonal-it701\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20177358-3616-4FCA-9808-D8EDA16BA07F}|ProgramaPersonal-IT701\\ProgramaPersonal-IT701.csproj|solutionrelative:programapersonal-it701\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramaPersona.cs",
+              "DocumentMoniker": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\ProgramaPersona.cs",
+              "RelativeDocumentMoniker": "ProgramaPersonal-IT701\\ProgramaPersona.cs",
+              "ToolTip": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\ProgramaPersona.cs",
+              "RelativeToolTip": "ProgramaPersonal-IT701\\ProgramaPersona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:14:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramaPersonaConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\ProgramaPersonaConstructor.cs",
+              "RelativeDocumentMoniker": "ProgramaPersonal-IT701\\ProgramaPersonaConstructor.cs",
+              "ToolTip": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\ProgramaPersonaConstructor.cs",
+              "RelativeToolTip": "ProgramaPersonal-IT701\\ProgramaPersonaConstructor.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:13:53.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramaPersonaTeclado.cs",
+              "DocumentMoniker": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\ProgramaPersonaTeclado.cs",
+              "RelativeDocumentMoniker": "ProgramaPersonal-IT701\\ProgramaPersonaTeclado.cs",
+              "ToolTip": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\ProgramaPersonaTeclado.cs",
+              "RelativeToolTip": "ProgramaPersonal-IT701\\ProgramaPersonaTeclado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:13:45.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\Persona.cs",
+              "RelativeDocumentMoniker": "ProgramaPersonal-IT701\\Persona.cs",
+              "ToolTip": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\Persona.cs",
+              "RelativeToolTip": "ProgramaPersonal-IT701\\Persona.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:11:21.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramaPersonaHerencia.cs",
+              "DocumentMoniker": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\ProgramaPersonaHerencia.cs",
+              "RelativeDocumentMoniker": "ProgramaPersonal-IT701\\ProgramaPersonaHerencia.cs",
+              "ToolTip": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\00.-ProgramaPersonal\\ProgramaPersonal-IT701\\ProgramaPersonaHerencia.cs",
+              "RelativeToolTip": "ProgramaPersonal-IT701\\ProgramaPersonaHerencia.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:07:11.553Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

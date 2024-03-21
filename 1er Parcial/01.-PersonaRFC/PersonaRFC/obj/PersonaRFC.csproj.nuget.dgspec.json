@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\01.-PersonaRFC\\PersonaRFC\\PersonaRFC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\01.-PersonaRFC\\PersonaRFC\\PersonaRFC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\01.-PersonaRFC\\PersonaRFC\\PersonaRFC.csproj",
+        "projectName": "PersonaRFC",
+        "projectPath": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\01.-PersonaRFC\\PersonaRFC\\PersonaRFC.csproj",
+        "packagesPath": "C:\\Users\\monnsmonsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\1er Parcial\\01.-PersonaRFC\\PersonaRFC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\monnsmonsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
