@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\obj\Debug\netcoreapp2.2\LeerNumeros.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\obj\Debug\netcoreapp2.2\LeerNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\obj\Debug\netcoreapp2.2\LeerNumeros.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\obj\Debug\netcoreapp2.2\LeerNumeros.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\bin\Debug\netcoreapp2.2\LeerNumeros.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\bin\Debug\netcoreapp2.2\LeerNumeros.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\bin\Debug\netcoreapp2.2\LeerNumeros.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\bin\Debug\netcoreapp2.2\LeerNumeros.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\bin\Debug\netcoreapp2.2\LeerNumeros.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\obj\Debug\netcoreapp2.2\LeerNumeros.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\LeerNumeros\LeerNumeros\obj\Debug\netcoreapp2.2\LeerNumeros.pdb

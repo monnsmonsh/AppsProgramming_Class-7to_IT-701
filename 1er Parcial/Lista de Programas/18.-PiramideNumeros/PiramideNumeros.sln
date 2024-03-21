@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiramideNumeros", "PiramideNumeros\PiramideNumeros.csproj", "{B194153E-81A2-4077-B2A4-52D7BA23A124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B194153E-81A2-4077-B2A4-52D7BA23A124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B194153E-81A2-4077-B2A4-52D7BA23A124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B194153E-81A2-4077-B2A4-52D7BA23A124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B194153E-81A2-4077-B2A4-52D7BA23A124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24B6736-A832-4779-AF76-79B87A72F6A0}
+	EndGlobalSection
+EndGlobal

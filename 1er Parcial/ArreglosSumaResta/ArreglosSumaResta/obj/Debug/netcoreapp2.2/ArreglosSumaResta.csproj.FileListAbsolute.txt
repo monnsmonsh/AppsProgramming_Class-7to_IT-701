@@ -1,0 +1,21 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Pruebas progm\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\bin\Debug\netcoreapp2.2\ArreglosSumaResta.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosSumaResta\ArreglosSumaResta\obj\Debug\netcoreapp2.2\ArreglosSumaResta.pdb

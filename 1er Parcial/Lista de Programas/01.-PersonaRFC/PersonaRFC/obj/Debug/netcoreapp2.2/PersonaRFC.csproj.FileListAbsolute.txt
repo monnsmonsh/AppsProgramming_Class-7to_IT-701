@@ -1,0 +1,21 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\bin\Debug\netcoreapp2.2\PersonaRFC.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\Lista de Programas\01.-PersonaRFC\PersonaRFC\obj\Debug\netcoreapp2.2\PersonaRFC.pdb

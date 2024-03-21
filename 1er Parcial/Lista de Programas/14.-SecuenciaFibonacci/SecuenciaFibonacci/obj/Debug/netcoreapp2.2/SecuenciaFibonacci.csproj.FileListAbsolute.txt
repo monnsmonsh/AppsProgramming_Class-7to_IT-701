@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp2.2\SecuenciaFibonacci.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp2.2\SecuenciaFibonacci.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp2.2\SecuenciaFibonacci.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp2.2\SecuenciaFibonacci.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\netcoreapp2.2\SecuenciaFibonacci.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp2.2\SecuenciaFibonacci.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp2.2\SecuenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp2.2\SecuenciaFibonacci.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp2.2\SecuenciaFibonacci.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp2.2\SecuenciaFibonacci.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\netcoreapp2.2\SecuenciaFibonacci.pdb

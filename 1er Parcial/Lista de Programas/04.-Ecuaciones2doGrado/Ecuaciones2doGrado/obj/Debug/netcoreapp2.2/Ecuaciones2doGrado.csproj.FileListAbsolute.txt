@@ -1,0 +1,22 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\bin\Debug\netcoreapp2.2\Ecuaciones2doGrado.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones2doGrado\Ecuaciones2doGrado\obj\Debug\netcoreapp2.2\Ecuaciones2doGrado.pdb

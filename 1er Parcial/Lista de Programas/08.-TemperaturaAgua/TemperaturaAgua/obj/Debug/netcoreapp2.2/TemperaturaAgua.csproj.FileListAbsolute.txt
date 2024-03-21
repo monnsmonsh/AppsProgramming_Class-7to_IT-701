@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\bin\Debug\netcoreapp2.2\TemperaturaAgua.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\bin\Debug\netcoreapp2.2\TemperaturaAgua.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\bin\Debug\netcoreapp2.2\TemperaturaAgua.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\bin\Debug\netcoreapp2.2\TemperaturaAgua.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\bin\Debug\netcoreapp2.2\TemperaturaAgua.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\obj\Debug\netcoreapp2.2\TemperaturaAgua.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\obj\Debug\netcoreapp2.2\TemperaturaAgua.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\obj\Debug\netcoreapp2.2\TemperaturaAgua.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\obj\Debug\netcoreapp2.2\TemperaturaAgua.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\obj\Debug\netcoreapp2.2\TemperaturaAgua.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\TemperaturaAgua\TemperaturaAgua\obj\Debug\netcoreapp2.2\TemperaturaAgua.pdb

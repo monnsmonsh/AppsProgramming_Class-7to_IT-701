@@ -1,0 +1,20 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.exe.config
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.Form1.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.Operaciones.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.Properties.Resources.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.csproj.GenerateResource.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.exe.config
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\bin\Debug\HolaMundoWindows.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.Form1.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.Operaciones.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.Properties.Resources.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.csproj.GenerateResource.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\HolaMundoWindows\HolaMundoWindows\obj\Debug\HolaMundoWindows.pdb

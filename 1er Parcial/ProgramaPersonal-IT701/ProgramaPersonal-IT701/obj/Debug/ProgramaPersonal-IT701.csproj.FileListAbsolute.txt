@@ -1,0 +1,14 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaPersonal-IT701\ProgramaPersonal-IT701\bin\Debug\ProgramaPersonal-IT701.exe.config
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaPersonal-IT701\ProgramaPersonal-IT701\bin\Debug\ProgramaPersonal-IT701.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaPersonal-IT701\ProgramaPersonal-IT701\bin\Debug\ProgramaPersonal-IT701.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaPersonal-IT701\ProgramaPersonal-IT701\obj\Debug\ProgramaPersonal-IT701.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaPersonal-IT701\ProgramaPersonal-IT701\obj\Debug\ProgramaPersonal-IT701.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaPersonal-IT701\ProgramaPersonal-IT701\obj\Debug\ProgramaPersonal-IT701.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaPersonal-IT701\ProgramaPersonal-IT701\obj\Debug\ProgramaPersonal-IT701.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ProgramaPersonal-IT701\ProgramaPersonal-IT701\obj\Debug\ProgramaPersonal-IT701.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ProgramaPersonal-IT701\ProgramaPersonal-IT701\obj\Debug\ProgramaPersonal-IT701.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ProgramaPersonal-IT701\ProgramaPersonal-IT701\obj\Debug\ProgramaPersonal-IT701.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ProgramaPersonal-IT701\ProgramaPersonal-IT701\obj\Debug\ProgramaPersonal-IT701.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ProgramaPersonal-IT701\ProgramaPersonal-IT701\bin\Debug\ProgramaPersonal-IT701.exe.config
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ProgramaPersonal-IT701\ProgramaPersonal-IT701\bin\Debug\ProgramaPersonal-IT701.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ProgramaPersonal-IT701\ProgramaPersonal-IT701\bin\Debug\ProgramaPersonal-IT701.pdb

@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.2\NumPrimo.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.2\NumPrimo.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.2\NumPrimo.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.2\NumPrimo.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\bin\Debug\netcoreapp2.2\NumPrimo.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.2\NumPrimo.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.2\NumPrimo.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.2\NumPrimo.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.2\NumPrimo.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.2\NumPrimo.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumPrimo\NumPrimo\obj\Debug\netcoreapp2.2\NumPrimo.pdb

@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\bin\Debug\netcoreapp2.2\Distancia2Dy3D.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\bin\Debug\netcoreapp2.2\Distancia2Dy3D.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\bin\Debug\netcoreapp2.2\Distancia2Dy3D.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\bin\Debug\netcoreapp2.2\Distancia2Dy3D.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\bin\Debug\netcoreapp2.2\Distancia2Dy3D.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\obj\Debug\netcoreapp2.2\Distancia2Dy3D.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\obj\Debug\netcoreapp2.2\Distancia2Dy3D.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\obj\Debug\netcoreapp2.2\Distancia2Dy3D.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\obj\Debug\netcoreapp2.2\Distancia2Dy3D.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\obj\Debug\netcoreapp2.2\Distancia2Dy3D.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ProgramaOperaciones-IT701\Distancia2Dy3D\Distancia2Dy3D\obj\Debug\netcoreapp2.2\Distancia2Dy3D.pdb

@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\bin\Debug\netcoreapp2.2\OperacionesBasicas.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\OperacionesBasicas\OperacionesBasicas\obj\Debug\netcoreapp2.2\OperacionesBasicas.pdb

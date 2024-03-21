@@ -1,0 +1,22 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\bin\Debug\netcoreapp2.2\ManejoArreglos.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ManejoArreglos\ManejoArreglos\obj\Debug\netcoreapp2.2\ManejoArreglos.pdb

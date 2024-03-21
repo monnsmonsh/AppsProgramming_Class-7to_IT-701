@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoTablas", "ManejoTablas\ManejoTablas.csproj", "{516A26EA-117E-4444-A15F-14053DC80F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{10827901-193D-4E89-AA41-AA6C898BDEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516A26EA-117E-4444-A15F-14053DC80F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516A26EA-117E-4444-A15F-14053DC80F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516A26EA-117E-4444-A15F-14053DC80F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516A26EA-117E-4444-A15F-14053DC80F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10827901-193D-4E89-AA41-AA6C898BDEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10827901-193D-4E89-AA41-AA6C898BDEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10827901-193D-4E89-AA41-AA6C898BDEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10827901-193D-4E89-AA41-AA6C898BDEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488E4E5D-37B4-4B4A-ACEA-039A80E4D4C9}
+	EndGlobalSection
+EndGlobal

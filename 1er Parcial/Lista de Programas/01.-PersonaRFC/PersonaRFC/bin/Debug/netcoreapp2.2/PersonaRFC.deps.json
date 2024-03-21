@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "PersonaRFC/1.0.0": {
+        "runtime": {
+          "PersonaRFC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonaRFC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

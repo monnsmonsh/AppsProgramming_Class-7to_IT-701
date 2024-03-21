@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\bin\Debug\netcoreapp2.2\PiramideNumeros.deps.json
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\bin\Debug\netcoreapp2.2\PiramideNumeros.runtimeconfig.json
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\bin\Debug\netcoreapp2.2\PiramideNumeros.runtimeconfig.dev.json
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\bin\Debug\netcoreapp2.2\PiramideNumeros.dll
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\bin\Debug\netcoreapp2.2\PiramideNumeros.pdb
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\obj\Debug\netcoreapp2.2\PiramideNumeros.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\obj\Debug\netcoreapp2.2\PiramideNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\obj\Debug\netcoreapp2.2\PiramideNumeros.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\obj\Debug\netcoreapp2.2\PiramideNumeros.AssemblyInfo.cs
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\obj\Debug\netcoreapp2.2\PiramideNumeros.dll
+C:\Users\ItsKtyu\source\repos\PiramideNumeros\PiramideNumeros\obj\Debug\netcoreapp2.2\PiramideNumeros.pdb

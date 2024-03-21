@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DineroDividir", "DineroDividir\DineroDividir.csproj", "{578AA90C-874D-48A0-9EE0-AFB011E77B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578AA90C-874D-48A0-9EE0-AFB011E77B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578AA90C-874D-48A0-9EE0-AFB011E77B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578AA90C-874D-48A0-9EE0-AFB011E77B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578AA90C-874D-48A0-9EE0-AFB011E77B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4DCF36-D6D2-4250-9639-57C2CD89DD16}
+	EndGlobalSection
+EndGlobal

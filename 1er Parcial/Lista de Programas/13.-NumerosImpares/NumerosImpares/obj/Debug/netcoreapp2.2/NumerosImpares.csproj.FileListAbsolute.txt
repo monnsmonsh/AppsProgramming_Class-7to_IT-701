@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp2.2\NumerosImpares.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp2.2\NumerosImpares.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp2.2\NumerosImpares.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp2.2\NumerosImpares.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\bin\Debug\netcoreapp2.2\NumerosImpares.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp2.2\NumerosImpares.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp2.2\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp2.2\NumerosImpares.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp2.2\NumerosImpares.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp2.2\NumerosImpares.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\Lista de Programas\NumerosImpares\NumerosImpares\obj\Debug\netcoreapp2.2\NumerosImpares.pdb

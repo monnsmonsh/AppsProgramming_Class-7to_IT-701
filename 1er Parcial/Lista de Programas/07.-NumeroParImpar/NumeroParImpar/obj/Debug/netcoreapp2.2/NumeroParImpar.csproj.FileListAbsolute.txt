@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\bin\Debug\netcoreapp2.2\NumeroParImpar.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\bin\Debug\netcoreapp2.2\NumeroParImpar.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\bin\Debug\netcoreapp2.2\NumeroParImpar.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\bin\Debug\netcoreapp2.2\NumeroParImpar.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\bin\Debug\netcoreapp2.2\NumeroParImpar.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\obj\Debug\netcoreapp2.2\NumeroParImpar.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\obj\Debug\netcoreapp2.2\NumeroParImpar.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\obj\Debug\netcoreapp2.2\NumeroParImpar.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\obj\Debug\netcoreapp2.2\NumeroParImpar.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\obj\Debug\netcoreapp2.2\NumeroParImpar.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\NumeroParImpar\NumeroParImpar\obj\Debug\netcoreapp2.2\NumeroParImpar.pdb

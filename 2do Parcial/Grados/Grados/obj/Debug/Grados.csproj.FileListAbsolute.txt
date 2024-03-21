@@ -1,0 +1,28 @@
+C:\Users\mani2\source\repos\Grados\Grados\bin\Debug\Grados.exe.config
+C:\Users\mani2\source\repos\Grados\Grados\bin\Debug\Grados.exe
+C:\Users\mani2\source\repos\Grados\Grados\bin\Debug\Grados.pdb
+C:\Users\mani2\source\repos\Grados\Grados\obj\Debug\Grados.csprojAssemblyReference.cache
+C:\Users\mani2\source\repos\Grados\Grados\obj\Debug\Grados.Form1.resources
+C:\Users\mani2\source\repos\Grados\Grados\obj\Debug\Grados.Properties.Resources.resources
+C:\Users\mani2\source\repos\Grados\Grados\obj\Debug\Grados.csproj.GenerateResource.cache
+C:\Users\mani2\source\repos\Grados\Grados\obj\Debug\Grados.csproj.CoreCompileInputs.cache
+C:\Users\mani2\source\repos\Grados\Grados\obj\Debug\Grados.exe
+C:\Users\mani2\source\repos\Grados\Grados\obj\Debug\Grados.pdb
+C:\Users\ItsKtyu\Desktop\Grados\Grados\bin\Debug\Grados.exe.config
+C:\Users\ItsKtyu\Desktop\Grados\Grados\bin\Debug\Grados.exe
+C:\Users\ItsKtyu\Desktop\Grados\Grados\bin\Debug\Grados.pdb
+C:\Users\ItsKtyu\Desktop\Grados\Grados\obj\Debug\Grados.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Grados\Grados\obj\Debug\Grados.Form1.resources
+C:\Users\ItsKtyu\Desktop\Grados\Grados\obj\Debug\Grados.Properties.Resources.resources
+C:\Users\ItsKtyu\Desktop\Grados\Grados\obj\Debug\Grados.csproj.GenerateResource.cache
+C:\Users\ItsKtyu\Desktop\Grados\Grados\obj\Debug\Grados.exe
+C:\Users\ItsKtyu\Desktop\Grados\Grados\obj\Debug\Grados.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\bin\Debug\Grados.exe.config
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\bin\Debug\Grados.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\bin\Debug\Grados.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\obj\Debug\Grados.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\obj\Debug\Grados.Form1.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\obj\Debug\Grados.Properties.Resources.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\obj\Debug\Grados.csproj.GenerateResource.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\obj\Debug\Grados.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Grados\Grados\obj\Debug\Grados.pdb

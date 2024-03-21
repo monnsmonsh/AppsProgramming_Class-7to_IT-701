@@ -1,0 +1,10 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\bin\Debug\netcoreapp2.2\AnhioBisiesto.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\bin\Debug\netcoreapp2.2\AnhioBisiesto.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\bin\Debug\netcoreapp2.2\AnhioBisiesto.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\bin\Debug\netcoreapp2.2\AnhioBisiesto.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\bin\Debug\netcoreapp2.2\AnhioBisiesto.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\obj\Debug\netcoreapp2.2\AnhioBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\obj\Debug\netcoreapp2.2\AnhioBisiesto.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\obj\Debug\netcoreapp2.2\AnhioBisiesto.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\obj\Debug\netcoreapp2.2\AnhioBisiesto.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\AnyoBisiesto\AnyoBisiesto\obj\Debug\netcoreapp2.2\AnhioBisiesto.pdb

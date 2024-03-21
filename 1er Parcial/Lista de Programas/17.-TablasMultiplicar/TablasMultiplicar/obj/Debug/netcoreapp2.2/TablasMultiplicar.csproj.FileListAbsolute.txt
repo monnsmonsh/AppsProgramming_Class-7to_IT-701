@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp2.2\TablasMultiplicar.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp2.2\TablasMultiplicar.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp2.2\TablasMultiplicar.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp2.2\TablasMultiplicar.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\bin\Debug\netcoreapp2.2\TablasMultiplicar.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp2.2\TablasMultiplicar.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp2.2\TablasMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp2.2\TablasMultiplicar.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp2.2\TablasMultiplicar.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp2.2\TablasMultiplicar.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\TablasMultiplicar\TablasMultiplicar\obj\Debug\netcoreapp2.2\TablasMultiplicar.pdb

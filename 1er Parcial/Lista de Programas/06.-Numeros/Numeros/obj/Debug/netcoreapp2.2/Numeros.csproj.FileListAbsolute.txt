@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\bin\Debug\netcoreapp2.2\Numeros.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\bin\Debug\netcoreapp2.2\Numeros.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\bin\Debug\netcoreapp2.2\Numeros.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\bin\Debug\netcoreapp2.2\Numeros.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\bin\Debug\netcoreapp2.2\Numeros.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\obj\Debug\netcoreapp2.2\Numeros.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\obj\Debug\netcoreapp2.2\Numeros.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\obj\Debug\netcoreapp2.2\Numeros.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\obj\Debug\netcoreapp2.2\Numeros.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\obj\Debug\netcoreapp2.2\Numeros.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Numeros\Numeros\obj\Debug\netcoreapp2.2\Numeros.pdb

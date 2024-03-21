@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\bin\Debug\netcoreapp2.2\Ecuaciones.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\bin\Debug\netcoreapp2.2\Ecuaciones.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\bin\Debug\netcoreapp2.2\Ecuaciones.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\bin\Debug\netcoreapp2.2\Ecuaciones.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\bin\Debug\netcoreapp2.2\Ecuaciones.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\obj\Debug\netcoreapp2.2\Ecuaciones.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\obj\Debug\netcoreapp2.2\Ecuaciones.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\obj\Debug\netcoreapp2.2\Ecuaciones.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\obj\Debug\netcoreapp2.2\Ecuaciones.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\obj\Debug\netcoreapp2.2\Ecuaciones.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\Lista de Programas\Ecuaciones\Ecuaciones\obj\Debug\netcoreapp2.2\Ecuaciones.pdb

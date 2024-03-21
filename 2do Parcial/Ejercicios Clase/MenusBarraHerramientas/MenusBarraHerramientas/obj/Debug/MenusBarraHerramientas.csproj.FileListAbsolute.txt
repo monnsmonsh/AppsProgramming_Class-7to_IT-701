@@ -1,0 +1,20 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\bin\Debug\MenusBarraHerramientas.exe.config
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\bin\Debug\MenusBarraHerramientas.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\bin\Debug\MenusBarraHerramientas.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.Form1.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.Properties.Resources.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.csproj.GenerateResource.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.CajasDialogos.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\bin\Debug\MenusBarraHerramientas.exe.config
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\bin\Debug\MenusBarraHerramientas.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\bin\Debug\MenusBarraHerramientas.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.CajasDialogos.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.Form1.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.Properties.Resources.resources
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.csproj.GenerateResource.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.exe
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\Ejercicios Clase\MenusBarraHerramientas\MenusBarraHerramientas\obj\Debug\MenusBarraHerramientas.pdb

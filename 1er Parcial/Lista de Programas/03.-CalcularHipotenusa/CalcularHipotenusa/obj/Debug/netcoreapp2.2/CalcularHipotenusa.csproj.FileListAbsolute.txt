@@ -1,0 +1,11 @@
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\bin\Debug\netcoreapp2.2\CalcularHipotenusa.deps.json
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\bin\Debug\netcoreapp2.2\CalcularHipotenusa.runtimeconfig.json
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\bin\Debug\netcoreapp2.2\CalcularHipotenusa.runtimeconfig.dev.json
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\bin\Debug\netcoreapp2.2\CalcularHipotenusa.dll
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\bin\Debug\netcoreapp2.2\CalcularHipotenusa.pdb
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\obj\Debug\netcoreapp2.2\CalcularHipotenusa.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\obj\Debug\netcoreapp2.2\CalcularHipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\obj\Debug\netcoreapp2.2\CalcularHipotenusa.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\obj\Debug\netcoreapp2.2\CalcularHipotenusa.AssemblyInfo.cs
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\obj\Debug\netcoreapp2.2\CalcularHipotenusa.dll
+C:\Users\ItsKtyu\source\repos\CalcularHipotenusa\CalcularHipotenusa\obj\Debug\netcoreapp2.2\CalcularHipotenusa.pdb

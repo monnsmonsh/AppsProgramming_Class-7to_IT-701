@@ -1,0 +1,21 @@
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.deps.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.runtimeconfig.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.runtimeconfig.dev.json
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\bin\Debug\netcoreapp2.2\ArreglosNumAleatorios.pdb
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.csprojAssemblyReference.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.AssemblyInfoInputs.cache
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.AssemblyInfo.cs
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.dll
+C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\7to Cuatrimestre\Programacion de Aplicaciones\1er Parcial\ArreglosNumAleatorios\ArreglosNumAleatorios\obj\Debug\netcoreapp2.2\ArreglosNumAleatorios.pdb
