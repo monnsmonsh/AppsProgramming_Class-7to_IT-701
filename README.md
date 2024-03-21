@@ -1,5 +1,5 @@
 # Programacion de Aplicaciones
-## La programación de aplicaciones se encuentra con una complejidad importante, que es la amplia variedad de opciones de desarrollo que existen.
+La programación de aplicaciones se encuentra con una complejidad importante, que es la amplia variedad de opciones de desarrollo que existen.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -8,18 +8,17 @@
 
 C# es un lenguaje de programación desarrollado por Microsoft para el framework .NET. Es utilizado para crear una variedad de aplicaciones, desde aplicaciones de escritorio hasta juegos y aplicaciones web. 
 
-## Tech
+## Tecnologias
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
+- C# - 
+- SQLServer - 
 
 
-## Plugins
-Este repositorio esta dividido en 3 parciales
-
-| Carpetas | rutas |
-| ------ | ------ |
-| 1er Parcial | |
+## Contenido
+Este repositorio esta dividido en 3 parciales 
+| Carpetas | rutas | Descripcion |
+| ------ | ------ | ------ |
+| 1er Parcial | | En este parcial vemos la sintaxis basica de C# asi de como utlizar y mandar llamar variables, ademas de utlizar ciclos y arreglos |
 | 2do Parcial |  |
 | 3er Parcial  | |
 
