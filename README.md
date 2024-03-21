@@ -19,13 +19,36 @@ Este repositorio esta dividido en 3 parciales
 
 | Carpetas | rutas |
 | ------ | ------ |
-| 1er Parcial | [plugins/dropbox/README.md][PlDb] |
-| 2do Parcial | [plugins/github/README.md][PlGh] |
-| 3er Parcial  | [plugins/googledrive/README.md][PlGd] |
+| 1er Parcial | |
+| 2do Parcial |  |
+| 3er Parcial  | |
 
 ### 1er Parcial
-| Proyecto |  |
+
+| Day |Proyecto |
 | ------ | ------ |
-| ProgramaOperaciones | [plugins/dropbox/README.md][PlDb] |
-| ProgramaPersonal | [plugins/github/README.md][PlGh] |
-| Ecuaciones2doGrado  | [plugins/googledrive/README.md][PlGd] |
+| 00 | ProgramaPersonal |
+| 01 | PersonalRFC |
+| 02 | OperacionesBasicas |
+| 03 | CalcularHipotenusa |
+| 04 | Ecuaciones2doGrado |
+| 04.v2 | Ecuaciones2doGrado |
+| 05 | Ecuaciones |
+| 06 | Numeros |
+| 07 | NumeroParImpar |
+| 08 | TemperaturaAgua |
+| 09 | AnhioBisisesto |
+| 10 | LeerNumeros |
+| 11 | Meses |
+| 11 | InpuestoAutomovil |
+| 12 | NumerosImparares |
+| 14 | SecuenciaFibonachi |
+| 15 | NumPrimo |
+| 16 | CalcularPotencia |
+| 17 | TablasMultiplicar |
+| 18 | PiramideNumeros |
+| 19 | Fraccion |
+| 20 | Distancia2Dy3D |
+| 21 | ArregloSumaResta |
+| 22 | ArreglosNumAleatorio |
+| 21 | ManejoArreglos |
