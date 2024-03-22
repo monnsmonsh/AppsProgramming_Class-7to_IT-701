@@ -75,8 +75,8 @@ Este repositorio esta dividido en 3 parciales los cuales presentas ejercicion de
 
 | Day |Proyecto |
 | ------ | ------ |
-| 01 | AplicacionDiscosBDMVC |
-| 02 | ManejoTablas |
+| 01 | ManejoTablas |
+| 02 | AplicacionDiscosBDMVC |
 | 03 | ProyectoRestaurante |
 | 04 | ProyectoLaboratorio |
 
