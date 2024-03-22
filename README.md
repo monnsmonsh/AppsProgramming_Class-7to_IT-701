@@ -51,3 +51,22 @@ Este repositorio esta dividido en 3 parciales
 | 21 | ArregloSumaResta |
 | 22 | ArreglosNumAleatorio |
 | 21 | ManejoArreglos |
+
+
+### 2do Parcial
+
+| Day |Proyecto |
+| ------ | ------ |
+| 00 | AgendaPersonal |
+| 01 | HolaMundoWindows |
+| 02 | Grados |
+| 03 | MenusBarraHerramientas |
+| 04 | DineroDividir |
+| 05 | ElementosDeSeleccion |
+| 06 | ElementosDeLista |
+| 07 | WordBLock |
+| 08 | ListasObjetos |
+| 09 | Examen |
+| 10 | ExamenPizzeria |
+
+
