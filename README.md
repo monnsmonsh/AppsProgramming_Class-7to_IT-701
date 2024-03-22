@@ -71,3 +71,13 @@ Este repositorio esta dividido en 3 parciales los cuales presentas ejercicion de
 | 10 | ExamenPizzeria |
 
 
+### 3er Parcial
+
+| Day |Proyecto |
+| ------ | ------ |
+
+| 01 | AplicacionDiscosBDMVC |
+| 02 | ManejoTablas |
+| 03 | ProyectoRestaurante |
+| 04 | ProyectoLaboratorio |
+
