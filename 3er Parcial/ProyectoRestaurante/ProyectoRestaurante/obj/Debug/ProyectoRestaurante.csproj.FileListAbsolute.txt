@@ -9,3 +9,15 @@ C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\3er
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.pdb
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.SeconCustomControl.resources
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.csprojAssemblyReference.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\bin\Debug\ProyectoRestaurante.exe.config
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\bin\Debug\ProyectoRestaurante.exe
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\bin\Debug\ProyectoRestaurante.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.csproj.AssemblyReference.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.FirstCustomControl.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.Form1.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.Properties.Resources.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.SeconCustomControl.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.csproj.GenerateResource.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.exe
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ProyectoRestaurante\ProyectoRestaurante\obj\Debug\ProyectoRestaurante.pdb

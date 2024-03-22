@@ -7,3 +7,13 @@ C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.csproj.GenerateResource.cache
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.exe
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\bin\Debug\DineroDividir.exe.config
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\bin\Debug\DineroDividir.exe
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\bin\Debug\DineroDividir.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.csproj.AssemblyReference.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.Form1.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.Properties.Resources.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.csproj.GenerateResource.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.csproj.CoreCompileInputs.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.exe
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\DineroDividir\DineroDividir\obj\Debug\DineroDividir.pdb

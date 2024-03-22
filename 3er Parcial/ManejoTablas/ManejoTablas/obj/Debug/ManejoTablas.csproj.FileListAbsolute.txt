@@ -8,3 +8,14 @@ C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\3er
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.exe
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.pdb
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.RegistroDiscos.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\bin\Debug\ManejoTablas.exe.config
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\bin\Debug\ManejoTablas.exe
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\bin\Debug\ManejoTablas.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.csproj.AssemblyReference.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.Form1.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.Properties.Resources.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.RegistroDiscos.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.csproj.GenerateResource.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.csproj.CoreCompileInputs.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.exe
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\3er Parcial\ManejoTablas\ManejoTablas\obj\Debug\ManejoTablas.pdb

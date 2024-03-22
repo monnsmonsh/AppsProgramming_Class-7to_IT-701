@@ -7,3 +7,13 @@ C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.csproj.GenerateResource.cache
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.exe
 C:\Users\ItsKtyu\Desktop\Universidad\Ingenieria\Programacion de Aplicaciones\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\bin\Debug\ExamenPizzeria.exe.config
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\bin\Debug\ExamenPizzeria.exe
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\bin\Debug\ExamenPizzeria.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.csproj.AssemblyReference.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.Form1.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.Properties.Resources.resources
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.csproj.GenerateResource.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.exe
+C:\Users\monnsmonsh\Documents\GitHubProyects\AppsProgramming_Class-7to_IT-701\2do Parcial\ExamenPizzeria\ExamenPizzeria\obj\Debug\ExamenPizzeria.pdb

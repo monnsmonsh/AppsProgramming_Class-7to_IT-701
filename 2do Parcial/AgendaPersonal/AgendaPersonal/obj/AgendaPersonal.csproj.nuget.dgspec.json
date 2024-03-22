@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ItsKtyu\\Desktop\\Universidad\\Ingenieria\\Programacion de Aplicaciones\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\AgendaPersonal.csproj": {}
+    "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\AgendaPersonal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ItsKtyu\\Desktop\\Universidad\\Ingenieria\\Programacion de Aplicaciones\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\AgendaPersonal.csproj": {
+    "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\AgendaPersonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ItsKtyu\\Desktop\\Universidad\\Ingenieria\\Programacion de Aplicaciones\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\AgendaPersonal.csproj",
+        "projectUniqueName": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\AgendaPersonal.csproj",
         "projectName": "AgendaPersonal",
-        "projectPath": "C:\\Users\\ItsKtyu\\Desktop\\Universidad\\Ingenieria\\Programacion de Aplicaciones\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\AgendaPersonal.csproj",
-        "packagesPath": "C:\\Users\\ItsKtyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ItsKtyu\\Desktop\\Universidad\\Ingenieria\\Programacion de Aplicaciones\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\obj\\",
+        "projectPath": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\AgendaPersonal.csproj",
+        "packagesPath": "C:\\Users\\monnsmonsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\AppsProgramming_Class-7to_IT-701\\2do Parcial\\AgendaPersonal\\AgendaPersonal\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ItsKtyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\monnsmonsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -36,10 +34,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -54,11 +58,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
