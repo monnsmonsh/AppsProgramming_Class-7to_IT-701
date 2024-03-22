@@ -10,10 +10,11 @@ C# es un lenguaje de programación desarrollado por Microsoft para el framework 
 
 ## Tecnologias
 - C# - 
-- SQLServer -
+- SQL -
 
-## Entorno
+## Entornos
 - Visual studio 2019
+- SQLServer 2019 -
 
 ## Contenido
 Este repositorio esta dividido en 3 parciales los cuales presentas ejercicion de C# para desarrollar aplicaciones
