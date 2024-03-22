@@ -21,7 +21,7 @@ Este repositorio esta dividido en 3 parciales los cuales presentas ejercicion de
 | ------ | ------ | ------ |
 | 1er Parcial | | En este parcial vemos la sintaxis basica de C# asi de como utlizar y mandar llamar variables, ademas de utlizar ciclos y arreglos. Todo esto ejecuntandolo desde la consola|
 | 2do Parcial | | Aplicando los conocimientos del anterior parcial y utlizando la POO generamos aplicaciones con Interfaz de windows utilizando `Form.cs` |
-| 3er Parcial  | |
+| 3er Parcial  | | Para finalizar y utlizar todos los conociminentos aprendido y utlizando el modelos vista controlador (MVC) ejecutaremos diferentes mini proyectos con conexion a `SQLServer 2019` con los que se consolida nuestro conociminetos |
 
 ### 1er Parcial
 
@@ -70,4 +70,13 @@ Este repositorio esta dividido en 3 parciales los cuales presentas ejercicion de
 | 09 | Examen |
 | 10 | ExamenPizzeria |
 
+
+### 3er Parcial
+
+| Day |Proyecto |
+| ------ | ------ |
+| 01 | ManejoTablas |
+| 02 | AplicacionDiscosBDMVC |
+| 03 | ProyectoRestaurante |
+| 04 | ProyectoLaboratorio |
 
