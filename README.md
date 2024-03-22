@@ -9,13 +9,14 @@ La programación de aplicaciones se encuentra con una complejidad importante, qu
 C# es un lenguaje de programación desarrollado por Microsoft para el framework .NET. Es utilizado para crear una variedad de aplicaciones, desde aplicaciones de escritorio hasta juegos y aplicaciones web. 
 
 ## Tecnologias
-
 - C# - 
-- SQLServer - 
+- SQLServer -
 
+## Entorno
+- Visual studio 2019
 
 ## Contenido
-Este repositorio esta dividido en 3 parciales 
+Este repositorio esta dividido en 3 parciales los cuales presentas ejercicion de C# para desarrollar aplicaciones
 | Carpetas | rutas | Descripcion |
 | ------ | ------ | ------ |
 | 1er Parcial | | En este parcial vemos la sintaxis basica de C# asi de como utlizar y mandar llamar variables, ademas de utlizar ciclos y arreglos. Todo esto ejecuntandolo desde la consola|
