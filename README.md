@@ -19,7 +19,7 @@ Este repositorio esta dividido en 3 parciales
 | Carpetas | rutas | Descripcion |
 | ------ | ------ | ------ |
 | 1er Parcial | | En este parcial vemos la sintaxis basica de C# asi de como utlizar y mandar llamar variables, ademas de utlizar ciclos y arreglos |
-| 2do Parcial |  |
+| 2do Parcial |  Aplicando los conocimientos del anterior parcial y utlizando la POO generamos aplicaciones con Interfaz de windows utilizando `Form.cs`|
 | 3er Parcial  | |
 
 ### 1er Parcial
