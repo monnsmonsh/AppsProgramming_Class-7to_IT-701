@@ -18,7 +18,7 @@ C# es un lenguaje de programación desarrollado por Microsoft para el framework 
 Este repositorio esta dividido en 3 parciales 
 | Carpetas | rutas | Descripcion |
 | ------ | ------ | ------ |
-| 1er Parcial | | En este parcial vemos la sintaxis basica de C# asi de como utlizar y mandar llamar variables, ademas de utlizar ciclos y arreglos |
+| 1er Parcial | | En este parcial vemos la sintaxis basica de C# asi de como utlizar y mandar llamar variables, ademas de utlizar ciclos y arreglos. Todo esto ejecuntandolo desde la consola|
 | 2do Parcial | | Aplicando los conocimientos del anterior parcial y utlizando la POO generamos aplicaciones con Interfaz de windows utilizando `Form.cs` |
 | 3er Parcial  | |
 
